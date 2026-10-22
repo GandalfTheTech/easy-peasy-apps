@@ -9,7 +9,7 @@ Files:
 - script.js — mobile menu and current year
 
 Before publishing:
-1. Replace CONTACT@YOURDOMAIN.COM and every [placeholder].
+1. Contact email (appseasypeasy@gmail.com), address (Maia, Portugal) and domain (easy-peasy-apps.com) are filled in. Replace the remaining [placeholders] (legal name, registration number, covered apps, retention periods).
 2. Decide which exact apps/services this policy covers.
 3. Confirm the legal identity and contact details of the data controller.
 4. Inventory all data collected by each app and every third-party SDK/provider.
